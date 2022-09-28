@@ -1,2 +1,2 @@
 # projects
-general projects for learning purposes 
+general personal projects for learning purposes 
